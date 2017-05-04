@@ -1,9 +1,4 @@
 //********************
-//Copyright 2015 Cloudera (http://www.cloudera.com)
-//Authored by Jordan Volz (jordan.volz@cloudera.com)
-//********************
-
-//********************
 //DATA
 //********************
 //Data: bball data, NBA league data per player. Each year is a separate file, goes back to 1980
